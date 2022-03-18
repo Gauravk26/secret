@@ -1,1 +1,1 @@
-web:node MemoizesFunction_Fibonacci.js
+web:node index.js
